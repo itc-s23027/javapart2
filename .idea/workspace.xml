@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb5f2205-12d9-4b35-98c6-9434c4e8784a" name="変更" comment=" プロジェクトを作成">
-      <change afterPath="$PROJECT_DIR$/src/Sample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/E621_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/E621_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Sample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/Tax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,27 +32,43 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2XpnZ3z0HKBZJ6PSe9WEBJJPT8T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="アプリケーション.E621_2">
+    <configuration name="E621_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.E621_2" />
+      <module name="part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample1" />
+      <option name="MAIN_CLASS_NAME" value="chapter6.Sample1" />
       <module name="part2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.E621_2" />
         <item itemvalue="アプリケーション.Sample1" />
       </list>
     </recent_temporary>
@@ -71,6 +92,7 @@
       <workItem from="1699334941396" duration="230000" />
       <workItem from="1699335185324" duration="2097000" />
       <workItem from="1699403942283" duration="354000" />
+      <workItem from="1699404781666" duration="3151000" />
     </task>
     <task id="LOCAL-00001" summary=" プロジェクトを作成">
       <option name="closed" value="true" />
@@ -89,5 +111,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" プロジェクトを作成" />
     <option name="LAST_COMMIT_MESSAGE" value=" プロジェクトを作成" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/exercise/E621_2.java</url>
+          <line>3</line>
+          <properties class="exercise.E621_2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

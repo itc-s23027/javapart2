@@ -1,3 +1,5 @@
+package chapter6;
+
 import chapter6.Tax;
 
 public class Sample1 {

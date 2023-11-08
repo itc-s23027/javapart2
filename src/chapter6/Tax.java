@@ -15,7 +15,7 @@ public class Tax {
     }
 
     public  int zeigaku(){
-        return (int)((shotoku - koujyo) * 0.1);
+        return (int)((shotoku - koujo) * 0.1);
     }
 }
 
